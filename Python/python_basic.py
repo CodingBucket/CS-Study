@@ -6,8 +6,9 @@ list_com = [x for x in range(10) if x % 3 == 0]  # Output => [0, 3, 6, 9]
 print("%.2f" % 10)
 
 # string list to int list
-n_list = ['1', '2', '3']
-n_list = list(map(int, n_list))  # [1, 2, 3]
+nums = ['1', '2', '3']
+n_list = list(map(int, nums))  # [1, 2, 3]
+n_list = [int(item) for item in nums] # [1, 2, 3]
 
 
 
