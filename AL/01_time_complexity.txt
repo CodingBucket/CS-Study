@@ -4,7 +4,7 @@ function of the length of the input.
 
 Maximum steps or Upper bound or Worst case.
 
-O(1)
+O(1) - Order of one
 O(log n)
 O(n)
 O(n log n)
@@ -22,6 +22,14 @@ Minimun steps or Lower bound or Best case.
 Ω(n2)
 
 Linear Search - Ω(1)
+
+When upper and lower bound are same for an algorithom then we use Θ to descrive the compexity.
+
+Θ(1)
+Θ(log n)
+Θ(n)
+Θ(n log n)
+Θ(n2)
 
 Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm 
 to run as a function of the length of the input.
