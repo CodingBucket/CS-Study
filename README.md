@@ -1,1 +1,1 @@
-# PS
+# Computer Science Study
