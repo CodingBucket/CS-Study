@@ -1,5 +1,8 @@
+
 Time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a
 function of the length of the input. 
+
+Maximum steps or Upper bound or Worst case.
 
 O(1)
 O(log n)
@@ -10,5 +13,16 @@ O(n2)
 Binary Search - O(log n)
 Linear Search - O(n)
 
+Minimun steps or Lower bound or Best case.
+
+Ω(1)
+Ω(log n)
+Ω(n)
+Ω(n log n)
+Ω(n2)
+
+Linear Search - Ω(1)
+
 Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm 
 to run as a function of the length of the input.
+
