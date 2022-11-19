@@ -1,8 +1,8 @@
-Linear Search
+Linear Search - O(n)
 
-Binary Search
+Binary Search - O(log n)
 
 
-Selection Sort
+Selection Sort - O(n2)
 
 Bubble Sort
