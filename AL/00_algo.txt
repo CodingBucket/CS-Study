@@ -6,3 +6,8 @@ Binary Search - O(log n)
 Selection Sort - O(n2) Ω(n2) Θ(n2)
 
 Bubble Sort - O(n2)
+
+Merge Sort - 
+ Sort first half of the array.
+ Sort second half of the array.
+ Merge them
