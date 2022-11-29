@@ -3,11 +3,11 @@ Linear Search - O(n)
 Binary Search - O(log n)
 
 
-Selection Sort - O(n2) Ω(n2) Θ(n2)
+Selection Sort - O(n2)  Ω(n2)  Θ(n2)
 
 Bubble Sort - O(n2)
 
-Merge Sort - 
+Merge Sort - O(n log n)  Ω(n log n)  Θ(n log n)
  Sort first half of the array.
  Sort second half of the array.
  Merge them
