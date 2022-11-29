@@ -1,0 +1,4 @@
+
+Queues: 
+ FIFO - First in frist out
+ 
