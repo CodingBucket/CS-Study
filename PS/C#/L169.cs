@@ -1,7 +1,5 @@
 public class Solution {
     public int MajorityElement(int[] nums) {
-        
-        // https://leetcode.com/problems/majority-element/description/
 
         var num_len = nums.Count(); // 3
 
