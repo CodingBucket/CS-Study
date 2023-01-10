@@ -1,7 +1,7 @@
-public class Solution {
+public class Solution {  
     public int MajorityElement(int[] nums) {
 
-        var num_len = nums.Count(); // 3
+        var num_len = nums.Count(); // L169
 
         var max_el = num_len / 2; // 1
 
