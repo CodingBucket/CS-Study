@@ -1,9 +1,9 @@
 public class Solution {  
     public int MajorityElement(int[] nums) {
 
-        var num_len = nums.Count(); // L169
+        var num_len = nums.Count();
 
-        var max_el = num_len / 2; // 1
+        var max_el = num_len / 2;
 
         var dic = new Dictionary<int, int>();
 
