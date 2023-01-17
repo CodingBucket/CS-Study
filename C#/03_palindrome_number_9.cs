@@ -1,6 +1,6 @@
 public class Solution {
     public bool IsPalindrome(int num) {
-        long rev_num = 0; // L9
+        long rev_num = 0;
         var n = num;
 
         if (n < 0)
