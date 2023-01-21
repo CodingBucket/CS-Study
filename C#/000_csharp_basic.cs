@@ -25,8 +25,13 @@ var dic = new Dictionary<int, int>();
 
 // Math
 
-Console.WriteLine(4 / 2); // 2
 Console.WriteLine(4 % 2); // 0
+Console.WriteLine(0 % 2); // 0
+Console.WriteLine(1 % 2); // 1
+
+Console.WriteLine(4 / 2); // 2
+Console.WriteLine(0 / 2); // 0
+Console.WriteLine(1 / 2); // 0.5 -> 0
 
 // Console
 
