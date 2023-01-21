@@ -23,6 +23,12 @@ var list = new List<int>{1, 2, 3};
 
 var dic = new Dictionary<int, int>();
 
+// Math
+
+Console.WriteLine(4 / 2); // 2
+Console.WriteLine(4 % 2); // 0
+
+// Console
 
 var input = Console.ReadLine();
 
