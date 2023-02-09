@@ -33,6 +33,11 @@ Console.WriteLine(4 / 2); // 2
 Console.WriteLine(0 / 2); // 0
 Console.WriteLine(1 / 2); // 0.5 -> 0
 
+// Reverse String
+char[] stringArray = r.ToCharArray();
+Array.Reverse(stringArray);
+string reverseString = new string(stringArray);
+
 // Console
 
 var input = Console.ReadLine();
