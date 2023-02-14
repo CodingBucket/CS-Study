@@ -23,7 +23,14 @@ var list = new List<int>{1, 2, 3};
 
 var dic = new Dictionary<int, int>();
 
+// Set
+
+var hashSet = new HashSet<int>();
+hashSet.Contains();
+
 // Math
+
+var maxValue = Math.Max(firstVal, secondVal);
 
 Console.WriteLine(4 % 2); // 0
 Console.WriteLine(0 % 2); // 0
