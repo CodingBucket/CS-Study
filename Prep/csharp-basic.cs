@@ -13,6 +13,14 @@ var min = array.Min();
 var binary = Convert.ToString(11, 2); // Int to binary
 
 
+// Stack
+
+var stack = new Stack<char>();
+stack.Push();
+stack.Pop();
+stack.Count;
+
+
 // List
 
 var list = new List<int>{1, 2, 3};
@@ -22,10 +30,21 @@ var list = new List<int>{1, 2, 3};
 
 var dic = new Dictionary<int, int>();
 
+var dict = new Dictionary<char, char>
+{
+    [')'] = '(',
+    [']'] = '[',
+    ['}'] = '{'
+};
+
+dict.ContainsKey(')')
+  
+
 // Set
 
 var hashSet = new HashSet<int>();
 hashSet.Contains();
+
 
 // Math
 
@@ -39,10 +58,12 @@ Console.WriteLine(4 / 2); // 2
 Console.WriteLine(0 / 2); // 0
 Console.WriteLine(1 / 2); // 0.5 -> 0
 
+
 // Reverse String
 char[] stringArray = r.ToCharArray();
 Array.Reverse(stringArray);
 string reverseString = new string(stringArray);
+
 
 // Console
 
