@@ -48,7 +48,11 @@ hashSet.Contains();
 
 // Math
 
-var maxValue = Math.Max(firstVal, secondVal);
+Math.Sqrt(16); // 4 // Retuens double
+
+Math.Pow(3, 2) // 9 // Returns double
+
+Math.Max(firstVal, secondVal); // Returns max value
 
 Console.WriteLine(4 % 2); // 0
 Console.WriteLine(0 % 2); // 0
