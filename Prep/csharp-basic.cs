@@ -38,6 +38,10 @@ var dict = new Dictionary<char, char>
 };
 
 dict.ContainsKey(')')
+    
+dict.Values.Max();
+
+dict.Keys
   
 
 // Set
