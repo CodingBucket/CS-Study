@@ -9,3 +9,18 @@ if (number >= 0)
 }
 
 Console.WriteLine(nextPerfectSquare);
+
+
+// Second Solution
+int Solution(int n) 
+{
+    int result = 0; int i = 0;
+
+    while (i <= n+1) {
+        int square = i * i;
+        if (square > n)
+            return square;
+        i++;
+    }
+    return result;
+}
