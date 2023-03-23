@@ -17,3 +17,26 @@ foreach (int key in dict.Keys)
         result = key;
 
 Console.WriteLine(result);
+
+
+// Second solution
+int answerTwo(int[] a) 
+{
+    int maxCount = 0; int maxOccur = 0; 
+
+    for (int i=0; i<a.Length; i++) {
+        int count = 0;
+
+        for (int j=0; j<a.Length; j++) {
+            if (a[i] == a[j]) {
+                count++;
+            }
+        }
+        if (count > maxCount) {
+            maxCount = count;
+            maxOccur = a[i];
+        }
+    }
+
+    return maxOccur;
+}
