@@ -4,6 +4,8 @@ Concepts:
 Here you can find a summary of the technical topics you should be prepared to address
 https://www.amazon.jobs/en/landing_pages/software-development-topics
 
+https://github.com/jwasham/coding-interview-university
+
 https://github.com/kdn251/interviews#graph-algorithms – Information on Data Structures and Algorithms
 
 https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
@@ -26,7 +28,6 @@ https://www.hackerrank.com/challenges/swap-nodes-algo
 
 PS IP - C# .NET DevOps Vue
 
-https://github.com/jwasham/coding-interview-university
 
 
 C# Topics:
