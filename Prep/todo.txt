@@ -1,16 +1,17 @@
 
-Concepts
+Concepts:
 
-https://www.amazon.jobs/en/landing_pages/software-development-topics - Here you can find a summary of the technical topics you should be prepared to address
-https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
+Here you can find a summary of the technical topics you should be prepared to address
+https://www.amazon.jobs/en/landing_pages/software-development-topics
+
 https://github.com/kdn251/interviews#graph-algorithms – Information on Data Structures and Algorithms
+
+https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
 https://www.youtube.com/watch?v=D6xkbGLQesk&t=541s – Introduction to Big O Notation and Time Complexity
 https://www.youtube.com/watch?v=gNQ9-kgyHfo – Information about System design section.
  
 
- 
-
-Practice problems
+Practice problems:
 
 https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
@@ -20,3 +21,36 @@ https://www.hackerrank.com/challenges/balanced-brackets
 https://www.hackerrank.com/challenges/contacts
 https://www.hackerrank.com/challenges/find-the-running-median
 https://www.hackerrank.com/challenges/swap-nodes-algo
+
+
+
+PS IP - C# .NET DevOps Vue
+
+
+C# Topics:
+
+- OOP, SOLID, Design Patters, DI, IoC
+
+- Configuration, Middleware, Custom Middleware, pipeline
+- Logging, Dependency Injection
+- Interfaces, Abstract Class, OOP, Polymorphism
+- Garbage collections, how it works
+
+- EF core, how data is collected and query runs
+- Identity concepts, audience, oauth, openid, saml etc
+- managed and unmanaged code,CLR
+- api routing, api endpoints 
+- C# Data structures, List, Collection, Set, Hash, Dictionary etc
+- Lambda, Func, action, ref, out, params
+- Multithreading, thread, process
+- TRY catch finally
+- HTTP verbs
+- Boxing, unboxing, layered architecture
+
+
+DB Topics:
+
+- Indexing, How indexing works, types
+- Joins-left join, right join, outer join inner join, query execution process
+- Trigger
+- DB Cluster
