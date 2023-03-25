@@ -31,7 +31,7 @@ https://github.com/jwasham/coding-interview-university
 
 C# Topics:
 
-- OOP, SOLID, Design Patters, DI, IoC
+- OOP, SOLID, Design Patters, DI, System Design
 
 - Configuration, Middleware, Custom Middleware, pipeline
 - Logging, Dependency Injection
