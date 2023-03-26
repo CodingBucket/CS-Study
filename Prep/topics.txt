@@ -1,38 +1,16 @@
 
-Concepts:
 
-Here you can find a summary of the technical topics you should be prepared to address
-https://www.amazon.jobs/en/landing_pages/software-development-topics
+PS: DS AL
 
-https://github.com/jwasham/coding-interview-university
-
-https://github.com/kdn251/interviews#graph-algorithms – Information on Data Structures and Algorithms
-
-https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
-https://www.youtube.com/watch?v=D6xkbGLQesk&t=541s – Introduction to Big O Notation and Time Complexity
-https://www.youtube.com/watch?v=gNQ9-kgyHfo – Information about System design section.
- 
-
-Practice problems:
-
-https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
-https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
-https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree
-https://www.hackerrank.com/challenges/tree-level-order-traversal
-https://www.hackerrank.com/challenges/balanced-brackets
-https://www.hackerrank.com/challenges/contacts
-https://www.hackerrank.com/challenges/find-the-running-median
-https://www.hackerrank.com/challenges/swap-nodes-algo
+IP: C# .NET DevOps Java Spring Vue
 
 
+Basics:
 
-PS IP - C# .NET DevOps Vue
-
+- OOP, SOLID, Design Patters, DI, System Design
 
 
 C# Topics:
-
-- OOP, SOLID, Design Patters, DI, System Design
 
 - Configuration, Middleware, Custom Middleware, pipeline
 - Logging, Dependency Injection
@@ -57,3 +35,31 @@ DB Topics:
 - Joins-left join, right join, outer join inner join, query execution process
 - Trigger
 - DB Cluster
+
+
+Concepts:
+
+Here you can find a summary of the technical topics you should be prepared to address
+https://www.amazon.jobs/en/landing_pages/software-development-topics
+
+https://github.com/jwasham/coding-interview-university
+
+https://github.com/kdn251/interviews#graph-algorithms – Information on Data Structures and Algorithms
+
+https://www.youtube.com/watch?v=gdmfOwyQlcI - Highly recommended to watch before doing the coding challenge
+https://www.youtube.com/watch?v=D6xkbGLQesk&t=541s – Introduction to Big O Notation and Time Complexity
+https://www.youtube.com/watch?v=gNQ9-kgyHfo – Information about System design section.
+ 
+
+Practice Problems:
+
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
+https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
+https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree
+https://www.hackerrank.com/challenges/tree-level-order-traversal
+https://www.hackerrank.com/challenges/balanced-brackets
+https://www.hackerrank.com/challenges/contacts
+https://www.hackerrank.com/challenges/find-the-running-median
+https://www.hackerrank.com/challenges/swap-nodes-algo
+
