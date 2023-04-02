@@ -9,6 +9,10 @@ Basics:
 
 - OOP, SOLID, Design Patters, DI, System Design
 
+.NET Stack: C#, .NET 6, .NET Core 3, ASP.NET MVC 5, Micro Services, Service Bus, Rebus, Redis, Entity Framework Core, Linq, UnitOfWork, 
+Repository Pattern, FluentValidation, CQRS, Hangfire, AutoMapper, JWT, DI, Ninject, SignalR, NLog, RedLock, Dapper ORM, SOLID Principal, 
+Design Patterns (Singleton, Factory, Abstract Factory, Builder, Observer, Decorator, Prototype, Mediator, Strategy, Facade).
+
 
 C# Topics:
 
