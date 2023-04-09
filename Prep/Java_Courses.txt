@@ -1,0 +1,52 @@
+Telegram (Free Resources) : telegram.me/notesgallery1
+
+18 free Java Courses to make you better at hired than 90% of the people.
+
+1. Core Java https://lnkd.in/dMSFbUiV & https://lnkd.in/dGtucE-W
+(a). Java notes for beginners https://lnkd.in/dBjHFDSF
+(b). Basics of Java https://lnkd.in/dE-uqFD3
+(c). 100 java programs https://lnkd.in/dUBPpCGv
+(d). Oops in Java https://lnkd.in/d2_GxSnB
+
+2. JDBC API https://lnkd.in/d8KhQiPr
+
+3. Basic of SQL Notes https://lnkd.in/dS5sXPcy & https://lnkd.in/drEMtqGX
+
+4. SQL https://t.co/6LFeSCqqwz
+
+5. SQL interview Question & Answers https://lnkd.in/ditrXGmx & https://lnkd.in/db6bXzh7
+
+6. JSP + Servlet https://lnkd.in/drNZ9PKr
+
+7. Hibernate Framework https://lnkd.in/d9MjsYxW
+
+8. Spring Framework
+(a) Core Spring Framework https://lnkd.in/dmFHPtyK
+(b) Spring REST & Spring DATA https://lnkd.in/dXKvtXq9
+(c) Spring Security https://lnkd.in/dQ4EXKPc
+
+9. Spring Boot https://lnkd.in/dnF86dgY
+
+10. Basic DevOps
+(a) Learn to Use AWS & Deploy Java Apps https://lnkd.in/duk4-88b
+(b) Learn Basic Docker: https://lnkd.in/dXqcHqpK
+(c) Learn Basic Kubernetes: https://lnkd.in/dpPngUXX
+(d) Deploy Spring Boot App on Kubernetes: https://lnkd.in/dKtdPX7H
+
+11. Basic of git and GitHub https://lnkd.in/dRUr3GvP
+
+12. Java Microservices https://lnkd.in/d7QYgXDV & https://lnkd.in/dcNvqDee
+
+13. Data structure and algorithms in Java https://lnkd.in/dNre_Cuq https://lnkd.in/ddi8qfcA & https://lnkd.in/dGZPXqen
+
+14. Learn the basics of Maven https://lnkd.in/di8xPYyV
+
+15. Java Interview Preparation https://lnkd.in/ddi8qfcA
+
+16. Java Interview Questions https://lnkd.in/d3MnEQEj & https://lnkd.in/dJ5j6Rtw
+
+17. Java Quick revision for Interviews https://lnkd.in/dACc9QVB
+
+18. Spring JMS (java messaging services) https://lnkd.in/d8z-Dnbx
+
+With these, you're ready to: Apply to Java backend engineering positions
